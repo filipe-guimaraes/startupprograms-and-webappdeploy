@@ -1,11 +1,18 @@
-# Parte 1 - Programas de incentivo da AWS para Startups
+# Elevando a sua Startup até a Nuvem - Inovação e eficiência ao utilizar a AWS
+
+### A apresentacão é dividida em duas partes e pode ser encontrada no diretório [Apresentação]:
+
+* Parte 01 - Como Startups inteligentes usam os programas da AWS para avançarem;
+* Parte 02 - Comece pequeno e avance com a sua arquitetura na AWS;
+
+## Parte 1 - Como Startups inteligentes usam os programas da AWS para avançarem
 
 Vídeo de referência: https://www.youtube.com/watch?v=XbleoD97bjk&t=1164s
 
 A apresentacão encontra-se no diretório [Apresentacão]. Aproveite!
 - Quaisquer dúvidas sobre os programas de incentivo para Startups, me chama lá no Instagram ou LinkedIn ;)
 
-# Parte 2 - Implantação de um website/frontend estático simples via AWS Amplify
+## Parte 2 - Comece pequeno e avance com a sua arquitetura na AWS - Implantação de um website/frontend estático simples via AWS Amplify
 
 Vídeo de referência: https://www.youtube.com/watch?v=7m_q1ldzw0U&t=808s
 
